@@ -1,5 +1,3 @@
-This is my 1st data science project
-
 I took data from stack overflow survey 2022 and analyzed it to answer 3 questions:
 
 1. What course platforms do professional developers choose to get certified in coding and does it change with level of experience?
