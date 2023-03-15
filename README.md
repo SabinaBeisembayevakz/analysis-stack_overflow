@@ -1,7 +1,7 @@
 Installations
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
-The libraries used: Numpy, Pandas, Matplotlib and Seaborn
+Download libraries by executing in your shell:
+pip install -r requirements.txt
 
 
 Project Motivation
